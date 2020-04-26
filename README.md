@@ -1,0 +1,2 @@
+# simple captcha identify
+ 
